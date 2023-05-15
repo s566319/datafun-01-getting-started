@@ -1,19 +1,17 @@
-2023-05-12 17:24:37,696 =============================================================
-2023-05-12 17:24:37,697 =============================================================
-2023-05-12 17:24:37,697 Today is 2023-05-12 at 05:24 PM
-2023-05-12 17:24:37,697 This file is running on: posix Darwin 21.6.0
-2023-05-12 17:24:37,697 The Python version is: 3.9.6
-2023-05-12 17:24:37,697 The active conda environment is:  None
-2023-05-12 17:24:37,697 The active pip environment is:    None
-2023-05-12 17:24:37,697 The active environment path is:   /Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9
-2023-05-12 17:24:37,697 The current working directory is: /Users/Inga/Documents/datafun-01-getting-started-1
-2023-05-12 17:24:37,697 This source file is in:           /Users/Inga/Documents/datafun-01-getting-started-1
-2023-05-12 17:24:37,697 =============================================================
-2023-05-12 17:24:37,697 =============================================================
-2023-05-12 17:24:37,697 Functions url = https://docs.python.org/3/library/functions.html
-2023-05-12 17:24:37,697 number_list = [1, 2, 3, 4, 5]
-2023-05-12 17:24:37,698 len(number_list) = 5
-2023-05-12 17:24:37,698 min(number_list) = 1
-2023-05-12 17:24:37,698 max(number_list) = 5
-2023-05-12 17:24:41,880 message = Hello Inga!
-2023-05-12 17:24:43,940 response = n
+2023-05-14 20:40:28,427 =============================================================
+2023-05-14 20:40:28,427 =============================================================
+2023-05-14 20:40:28,428 Today is 2023-05-14 at 08:40 PM
+2023-05-14 20:40:28,428 This file is running on: posix Darwin 21.6.0
+2023-05-14 20:40:28,429 The Python version is: 3.9.6
+2023-05-14 20:40:28,429 The active conda environment is:  None
+2023-05-14 20:40:28,429 The active pip environment is:    None
+2023-05-14 20:40:28,429 The active environment path is:   /Library/Developer/CommandLineTools/Library/Frameworks/Python3.framework/Versions/3.9
+2023-05-14 20:40:28,429 The current working directory is: /Users/Inga/Documents/datafun-01-getting-started
+2023-05-14 20:40:28,429 This source file is in:           /Users/Inga/Documents/datafun-01-getting-started
+2023-05-14 20:40:28,429 =============================================================
+2023-05-14 20:40:28,429 =============================================================
+2023-05-14 20:40:28,429 Functions url = https://docs.python.org/3/library/functions.html
+2023-05-14 20:40:28,430 number_list = [1, 2, 3, 4, 5]
+2023-05-14 20:40:28,430 len(number_list) = 5
+2023-05-14 20:40:28,430 min(number_list) = 1
+2023-05-14 20:40:28,430 max(number_list) = 5

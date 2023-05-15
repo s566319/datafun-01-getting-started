@@ -81,9 +81,3 @@ if response == "y":
     print("We'll learn more about them later.")
     print()
 
-# TODO: Run with different responses n, y, other... other
-If response =="n":
-print()
-print("Let's open a window.  Fresh air is nice!")
-webbrowser.open_new(url)
-print()
